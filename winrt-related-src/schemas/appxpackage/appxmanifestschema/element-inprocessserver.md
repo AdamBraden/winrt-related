@@ -77,7 +77,7 @@ None.
 </tr>
 <tr class="even">
 <td>[Path (type: ST_FileName)](element-path.md)</td>
-<td><p>The path to the DLL.</p></td>
+<td><p>Package relative path to the DLL.</p></td>
 </tr>
 </tbody>
 </table>
